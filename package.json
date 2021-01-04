@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/syuji-higa/demo-prisma/issues"
   },
-  "homepage": "https://github.com/syuji-higa/demo-prisma#readme"
+  "homepage": "https://github.com/syuji-higa/demo-prisma#readme",
+  "devDependencies": {
+    "@prisma/cli": "^2.13.1"
+  }
 }
