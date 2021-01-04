@@ -19,5 +19,8 @@
   "homepage": "https://github.com/syuji-higa/demo-prisma#readme",
   "devDependencies": {
     "@prisma/cli": "^2.13.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^2.13.1"
   }
 }
